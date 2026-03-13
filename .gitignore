@@ -1,0 +1,20 @@
+# === Build Artifacts ===
+build/
+bin/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# === Compiled Binaries ===
+hermes
+*.exe
+*.out
+*.app
+
+# === IDE & OS Files ===
+.vscode/
+.idea/
+.DS_Store
+*.swp
